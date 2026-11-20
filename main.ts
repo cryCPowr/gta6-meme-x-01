@@ -25,3 +25,4 @@ try {
 }
 
 // Entry program for the gta6-meme-x-01 bundle: the entry is the post on X that this file's POST.json names.
+// Run: mkdir -p out && MAKEFUN_BOT_DIR=. MAKEFUN_OUTPUT_DIR=out node main.ts
